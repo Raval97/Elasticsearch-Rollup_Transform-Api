@@ -30,8 +30,8 @@ Transforms Api contains:
 Examples of using:
 
 For Rollup
-![Image description](https://github.com/Raval97/Elasticsearch-Rollup_Transform-Api/tree/master/screens/Screenshot from 2020-08-20 13-48-49.png?raw=true)
+![Image description](https://github.com/Raval97/Elasticsearch-Rollup_Transform-Api/tree/master/screens/rollup.png?raw=true)
 
 For Transforms
-![Image description](https://github.com/Raval97/Elasticsearch-Rollup_Transform-Api/tree/master/screens/Screenshot from 2020-08-20 13-49-59.png?raw=true)
+![Image description](https://github.com/Raval97/Elasticsearch-Rollup_Transform-Api/tree/master/screens/transforms.png?raw=true)
 
