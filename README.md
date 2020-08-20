@@ -33,7 +33,8 @@ For Rollup:
 
 ![Image description](https://github.com/Raval97/Elasticsearch-Rollup_Transform-Api/blob/master/screens/rollup.png?raw=true)
 
+
 For Transforms:
 
-![Image description](https://github.com/Raval97/Elasticsearch-Rollup_Transform-Api/tree/master/screens/transforms.png?raw=true)
+![Image description](https://github.com/Raval97/Elasticsearch-Rollup_Transform-Api/blob/master/screens/transforms.png?raw=true)
 
