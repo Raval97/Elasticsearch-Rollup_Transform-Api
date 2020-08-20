@@ -14,7 +14,7 @@ Rollup Api contains:
    - GET /_rollup/data/<index_pattern>/_rollup_caps: Get Rollup Capabilities
    - GET /<index_name>/_rollup/data/: Get Rollup Index Capabilities
 - /<index_name>/
-    GET /<index_name>/_rollup_search: Search rollup data
+   - GET /<index_name>/_rollup_search: Search rollup data
 
 
 Transforms Api contains:
@@ -29,11 +29,11 @@ Transforms Api contains:
 
 Examples of using:
 
-For Rollup
+For Rollup:
 
-![Image description](https://github.com/Raval97/Elasticsearch-Rollup_Transform-Api/tree/master/screens/rollup.png?raw=true)
+![Image description](https://github.com/Raval97/Elasticsearch-Rollup_Transform-Api/blob/master/screens/rollup.png?raw=true)
 
-For Transforms
+For Transforms:
 
 ![Image description](https://github.com/Raval97/Elasticsearch-Rollup_Transform-Api/tree/master/screens/transforms.png?raw=true)
 
